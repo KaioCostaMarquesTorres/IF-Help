@@ -1,0 +1,54 @@
+.navbar{
+
+   height:100px ;
+  
+}
+.container-fluid{
+
+  margin-left: 50px;
+  margin-left: 45%;
+}
+#titutoLogin{
+  margin-top: 80px;
+  margin-bottom: 80px;
+  text-align: center;
+}
+.containerLogin{
+  height:500px ;
+}
+
+.card{
+
+  width: 50rem; 
+  height: 25rem;
+  background-color: #efebf8 ;
+  margin-left: 22%;
+
+}
+.card-body{
+  margin-left: 30%;
+  margin-top: 50px;
+   
+}
+.card-title{
+  font-size: 40px;
+}
+.inputLogin{
+  width: 300px;
+}
+
+.btn{
+  margin-left: 100px;
+  margin-top: 20px;
+  width: 100px;
+  border-radius: 70;
+}
+.recLogin{
+  height: 67px;
+  background-color: #c5cae9;
+}
+.footerLogin{
+
+  height: 100px;
+  background-color: #3c3d41;
+}
